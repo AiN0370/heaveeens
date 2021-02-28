@@ -2,7 +2,16 @@
     width:350px;
     height:400px;
 }
+.header{
+    width:350px;
+    height:100px;
+}
 li{
     float:left;
     list-style:none;
+}
+.footer{
+    width:350px;
+    height:100px;
+    background-color:ivory;
 }
