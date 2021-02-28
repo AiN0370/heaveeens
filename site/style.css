@@ -1,14 +1,26 @@
 .pricat{
-    width:350px;
-    height:400px;
+    width:100%;
 }
 .header{
-    width:350px;
-    height:100px;
+ display: flex;
 }
-li{
-    float:left;
+
+.rogo{
+    width: 100px;
+    margin-left: 50px;
+}
+
+
+.header ul{
+    display: flex;
     list-style:none;
+}
+.display li{
+    float:left;
+    margin-left: auto;
+    text-align: center;
+    display: flex;
+    font-size: 24px;
 }
 .footer{
     width:350px;
