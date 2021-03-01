@@ -6,16 +6,16 @@
 .nusu{
     width:100%;
 }
-.header{
-    display: flex;
-}
-
 .rogo{
     width: 100px;
+    height:60px;
     margin-left: 50px;
 }
 
-
+.header{
+    display: flex;
+    height:80px;
+}
 .header ul{
     display: flex;
     list-style:none;
@@ -28,12 +28,15 @@
     font-size: 24px;
 }
 
+
 .footer{
-    text-align:center;
-    line-height:100px;
     width:100%;
     height:100px;
     background-color:#4169E1;
     box-shadow:10px 5px 10px #191970;
-
+}
+.tori{
+    width:30x; height:30px;
+    margin-top:42px;
+    margin-left:655px;
 }
