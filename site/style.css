@@ -1,8 +1,8 @@
-.pricat{
+.nusu{
     width:100%;
 }
 .header{
- display: flex;
+    display: flex;
 }
 
 .rogo{
@@ -22,7 +22,11 @@
     display: flex;
     font-size: 24px;
 }
+
 .footer{
-    width:350px;
+    text-align:center;
+    line-height:100px;
+    width:100%;
     height:100px;
+    background-color:gray;
 }
