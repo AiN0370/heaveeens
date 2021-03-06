@@ -28,6 +28,25 @@
     font-size: 24px;
 }
 
+.container{
+    height:600px;
+    display:flex;
+    justify-content:space-evenly;
+}
+.box{
+    width:600px;
+    border:solid 1px;
+}
+.orange_line{
+    background:linear-gradient(transparent 70%,#FFA500);
+}
+/*↑ここなんだけど、マーカーの長さ変えれたら桐生院ヴァンのところだけにしたい*/
+
+.tori{
+    width:30x; height:30px;
+    margin-top:42px;
+    margin-left:655px;
+}
 
 .footer{
     width:100%;
@@ -35,8 +54,9 @@
     background-color:#4169E1;
     box-shadow:10px 5px 10px #191970;
 }
-.tori{
-    width:30x; height:30px;
-    margin-top:42px;
-    margin-left:655px;
+.bottun{
+    margin-left:12px;
+    margin-top:40px;
+    width:200px;
+    height:20px;
 }
